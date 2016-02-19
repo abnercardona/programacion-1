@@ -1,0 +1,13 @@
+#include <iostream> //incluyendo biblioteca
+using namespace std;
+
+//Metodo saludar
+void saludar(char* nombre){
+	cout << " hola " << nombre <<endl; //imprime hola mundo
+}
+
+//Metodo principal
+int main() {
+	saludar(" abner ");
+	return 0;
+}
