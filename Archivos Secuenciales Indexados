@@ -24,7 +24,7 @@ int main() {
 
 				 remove("datos.txt");
 
-cout<<"*** BIENVENIDOS ***"<<endl<<endl;
+cout<<"binevenidos "<<endl<<endl;
 cout<<"1. Ingresar datos de estudiante"<<endl;
 cout<<"2. Buscar datos de estudiante"<<endl;
 cout<<"3. Borrar registros"<<endl;
